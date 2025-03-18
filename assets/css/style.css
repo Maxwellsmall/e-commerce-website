@@ -1,0 +1,7 @@
+.details{
+    cursor: pointer;
+    transition: .1s ease-in;
+}
+.sell{
+    background-color: #82868a;
+}
